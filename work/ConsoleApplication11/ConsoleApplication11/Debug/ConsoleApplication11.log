@@ -1,0 +1,6 @@
+﻿  ConsoleApplication11.cpp
+D:\vs2\work\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(6,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs2\work\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(16,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs2\work\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(30,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(25): warning C4172: 返回局部变量或临时变量的地址: a
+  ConsoleApplication11.vcxproj -> D:\vs2\work\ConsoleApplication11\Debug\ConsoleApplication11.exe

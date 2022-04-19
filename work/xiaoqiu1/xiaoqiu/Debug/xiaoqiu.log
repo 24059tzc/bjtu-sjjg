@@ -1,0 +1,3 @@
+﻿  xiaoqiu.cpp
+D:\vs2\work\xiaoqiu1\xiaoqiu\xiaoqiu.cpp(18,5): error C2084: 函数“int main(void)”已有主体
+D:\vs2\work\xiaoqiu1\xiaoqiu\xiaoqiu.cpp(2): message : 参见“main”的前一个定义

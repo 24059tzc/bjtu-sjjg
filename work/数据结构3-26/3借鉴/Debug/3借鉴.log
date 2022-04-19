@@ -1,0 +1,8 @@
+﻿  3借鉴.cpp
+D:\vs2\work\数据结构3-26\3借鉴\3借鉴.cpp(156,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\vs2\work\数据结构3-26\3借鉴\3借鉴.cpp(162,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\vs2\work\数据结构3-26\3借鉴\3借鉴.cpp(42): warning C4715: “push”: 不是所有的控件路径都返回值
+D:\vs2\work\数据结构3-26\3借鉴\3借鉴.cpp(86): warning C4715: “push”: 不是所有的控件路径都返回值
+D:\vs2\work\数据结构3-26\3借鉴\3借鉴.cpp(147): warning C4715: “compare”: 不是所有的控件路径都返回值
+D:\vs2\work\数据结构3-26\3借鉴\3借鉴.cpp(164): warning C4715: “calculate”: 不是所有的控件路径都返回值
+  3借鉴.vcxproj -> D:\vs2\work\数据结构3-26\Debug\3借鉴.exe

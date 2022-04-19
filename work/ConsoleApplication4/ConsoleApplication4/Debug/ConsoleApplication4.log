@@ -1,0 +1,6 @@
+﻿  ConsoleApplication4.cpp
+D:\vs2\work\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(11,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vs2\work\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(12,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vs2\work\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(13,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\vs2\work\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConsoleApplication4.vcxproj -> D:\vs2\work\ConsoleApplication4\Debug\ConsoleApplication4.exe

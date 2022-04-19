@@ -1,0 +1,5 @@
+﻿  JHL006.cpp
+D:\vs2\work\数据结构4-9\JHL006\JHL006.cpp(51,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构4-9\JHL006\JHL006.cpp(65,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构4-9\JHL006\JHL006.cpp(74,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  JHL006.vcxproj -> D:\vs2\work\数据结构4-9\Debug\JHL006.exe

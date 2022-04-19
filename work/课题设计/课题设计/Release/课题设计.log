@@ -1,0 +1,20 @@
+﻿  课题设计.cpp
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(27,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(31,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(43,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(47,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(72,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(201,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(205,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(211,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(199,20): warning C4101: “name1”: 未引用的局部变量
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(255,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(229,21): warning C4101: “k”: 未引用的局部变量
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(407,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\课题设计\课题设计\课题设计.cpp(424,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  10 of 17 functions (58.8%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  课题设计.vcxproj -> D:\vs2\work\课题设计\Release\课题设计.exe

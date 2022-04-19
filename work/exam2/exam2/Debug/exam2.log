@@ -1,0 +1,5 @@
+﻿  exam2.cpp
+D:\vs2\work\exam2\exam2\exam2.cpp(8,43): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\vs2\work\exam2\exam2\exam2.cpp(16,11): warning C4101: “realpeak2”: 未引用的局部变量
+D:\vs2\work\exam2\exam2\exam2.cpp(23,12): warning C4101: “j”: 未引用的局部变量
+  exam2.vcxproj -> D:\vs2\work\exam2\Debug\exam2.exe

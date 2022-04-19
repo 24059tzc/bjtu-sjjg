@@ -1,0 +1,6 @@
+﻿  c9_30.cpp
+D:\vs2\work\to test\c9_30\c9_30.cpp(21,21): warning C4305: “=”: 从“double”到“float”截断
+D:\vs2\work\to test\c9_30\c9_30.cpp(34,24): warning C4305: “初始化”: 从“double”到“float”截断
+D:\vs2\work\to test\c9_30\c9_30.cpp(41,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“double”
+D:\vs2\work\to test\c9_30\c9_30.cpp(43,17): warning C4101: “g”: 未引用的局部变量
+  c9_30.vcxproj -> D:\vs2\work\to test\Debug\c9_30.exe

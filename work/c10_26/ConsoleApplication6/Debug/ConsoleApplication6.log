@@ -1,0 +1,4 @@
+﻿  ConsoleApplication6.cpp
+D:\vs2\work\c10_26\ConsoleApplication6\ConsoleApplication6.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\vs2\work\c10_26\ConsoleApplication6\ConsoleApplication6.cpp(5,15): warning C4101: “k”: 未引用的局部变量
+  ConsoleApplication6.vcxproj -> D:\vs2\work\c10_26\Debug\ConsoleApplication6.exe

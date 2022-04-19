@@ -1,0 +1,6 @@
+﻿  图的遍历及连通性.cpp
+D:\vs2\work\第12周\图的遍历及连通性\图的遍历及连通性.cpp(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\第12周\图的遍历及连通性\图的遍历及连通性.cpp(33,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\第12周\图的遍历及连通性\图的遍历及连通性.cpp(27,12): warning C4101: “k”: 未引用的局部变量
+D:\vs2\work\第12周\图的遍历及连通性\图的遍历及连通性.cpp(27,15): warning C4101: “w”: 未引用的局部变量
+  图的遍历及连通性.vcxproj -> D:\vs2\work\第12周\Debug\图的遍历及连通性.exe

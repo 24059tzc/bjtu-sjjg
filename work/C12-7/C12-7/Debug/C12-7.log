@@ -1,0 +1,15 @@
+﻿  C12-7.cpp
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(27,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(31,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(43,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(47,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(72,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(201,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(205,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(211,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(199,20): warning C4101: “name1”: 未引用的局部变量
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(255,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(229,21): warning C4101: “k”: 未引用的局部变量
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(407,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\C12-7\C12-7\C12-7.cpp(424,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C12-7.vcxproj -> D:\vs2\work\C12-7\Debug\C12-7.exe

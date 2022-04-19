@@ -1,0 +1,12 @@
+﻿  ConsoleApplication8.cpp
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(24,15): warning C4476: "scanf": 格式说明符中的类型字段字符“.”未知
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(24,15): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 6 拥有了类型“float *”
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(24,148): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(24,148): message : 占位符和其参数预计 7 可变参数，但提供的却是 8 参数
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(24,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(33,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 6 拥有了类型“double”
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(33,16): warning C4477: “printf”: 格式字符串“%.1f”需要类型“double”的参数，但可变参数 7 拥有了类型“int”
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(53,12): warning C4551: 缺少参数列表的函数调用
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(49,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(66,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConsoleApplication8.vcxproj -> D:\vs2\work\ConsoleApplication8\Debug\ConsoleApplication8.exe

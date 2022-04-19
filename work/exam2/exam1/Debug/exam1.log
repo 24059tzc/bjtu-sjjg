@@ -1,0 +1,5 @@
+﻿  exam1.cpp
+D:\vs2\work\exam2\exam1\exam1.cpp(7,40): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\vs2\work\exam2\exam1\exam1.cpp(15,15): warning C4101: “k”: 未引用的局部变量
+D:\vs2\work\exam2\exam1\exam1.cpp(15,12): warning C4101: “j”: 未引用的局部变量
+  exam1.vcxproj -> D:\vs2\work\exam2\Debug\exam1.exe

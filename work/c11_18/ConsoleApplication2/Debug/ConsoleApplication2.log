@@ -1,0 +1,8 @@
+﻿  ConsoleApplication2.cpp
+D:\vs2\work\c11_18\ConsoleApplication2\ConsoleApplication2.cpp(12,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+D:\vs2\work\c11_18\ConsoleApplication2\ConsoleApplication2.cpp(12,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“float *”
+D:\vs2\work\c11_18\ConsoleApplication2\ConsoleApplication2.cpp(15,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+D:\vs2\work\c11_18\ConsoleApplication2\ConsoleApplication2.cpp(15,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“float *”
+D:\vs2\work\c11_18\ConsoleApplication2\ConsoleApplication2.cpp(18,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+D:\vs2\work\c11_18\ConsoleApplication2\ConsoleApplication2.cpp(18,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“float *”
+  ConsoleApplication2.vcxproj -> D:\vs2\work\c11_18\Debug\ConsoleApplication2.exe

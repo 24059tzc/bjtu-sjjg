@@ -1,0 +1,5 @@
+﻿  最小生成树1.cpp
+D:\vs2\work\第12周\最小生成树1\最小生成树1.cpp(10,1): warning C4005: “INFINITY”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : 参见“INFINITY”的前一个定义
+D:\vs2\work\第12周\最小生成树1\最小生成树1.cpp(112,6): warning C4101: “num_dh”: 未引用的局部变量
+  最小生成树1.vcxproj -> D:\vs2\work\第12周\Debug\最小生成树1.exe

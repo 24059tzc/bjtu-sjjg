@@ -1,0 +1,6 @@
+﻿  数据结构课程设计.cpp
+D:\vs2\work\数据结构课程设计\数据结构课程设计\数据结构课程设计.cpp(86,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构课程设计\数据结构课程设计\数据结构课程设计.cpp(93,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构课程设计\数据结构课程设计\数据结构课程设计.cpp(50): warning C4700: 使用了未初始化的局部变量“address”
+D:\vs2\work\数据结构课程设计\数据结构课程设计\数据结构课程设计.cpp(34): warning C4700: 使用了未初始化的局部变量“H”
+  数据结构课程设计.vcxproj -> D:\vs2\work\数据结构课程设计\Debug\数据结构课程设计.exe

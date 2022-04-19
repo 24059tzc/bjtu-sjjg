@@ -1,0 +1,5 @@
+﻿  exam4.cpp
+D:\vs2\work\exam\exam4\exam4.cpp(8,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\exam\exam4\exam4.cpp(19,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\exam\exam4\exam4.cpp(5,15): warning C4101: “k”: 未引用的局部变量
+  exam4.vcxproj -> D:\vs2\work\exam\Debug\exam4.exe

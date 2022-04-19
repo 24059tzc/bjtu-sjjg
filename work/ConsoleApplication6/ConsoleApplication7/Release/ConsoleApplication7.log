@@ -1,0 +1,7 @@
+﻿  ConsoleApplication7.cpp
+D:\vs2\work\ConsoleApplication6\ConsoleApplication7\ConsoleApplication7.cpp(5,9): warning C4101: “k”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ConsoleApplication7.vcxproj -> D:\vs2\work\ConsoleApplication6\Release\ConsoleApplication7.exe

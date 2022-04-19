@@ -1,0 +1,4 @@
+﻿  fly1.cpp
+D:\vs2\work\fly\fly1\fly1.cpp(9,10): warning C4101: “input”: 未引用的局部变量
+D:\vs2\work\fly\fly1\fly1.cpp(6,12): warning C4101: “j”: 未引用的局部变量
+  fly1.vcxproj -> D:\vs2\work\fly\Debug\fly1.exe

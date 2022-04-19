@@ -1,0 +1,4 @@
+﻿  XTH007.cpp
+D:\vs2\work\数据结构4-23\XTH007\XTH007.cpp(175,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构4-23\XTH007\XTH007.cpp(178,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  XTH007.vcxproj -> D:\vs2\work\数据结构4-23\Debug\XTH007.exe

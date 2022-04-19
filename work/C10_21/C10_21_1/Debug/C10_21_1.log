@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\vs2\work\C10_21\C10_21_1\源.cpp(9,15): warning C4305: “初始化”: 从“int”到“char”截断
+D:\vs2\work\C10_21\C10_21_1\源.cpp(9,11): warning C4309: “初始化”: 截断常量值
+  C10_21_1.vcxproj -> D:\vs2\work\C10_21\Debug\C10_21_1.exe

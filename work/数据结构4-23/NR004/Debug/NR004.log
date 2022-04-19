@@ -1,0 +1,5 @@
+﻿  NR004.cpp
+D:\vs2\work\数据结构4-23\NR004\NR004.cpp(184,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构4-23\NR004\NR004.cpp(187,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构4-23\NR004\NR004.cpp(178): warning C4715: “compare”: 不是所有的控件路径都返回值
+  NR004.vcxproj -> D:\vs2\work\数据结构4-23\Debug\NR004.exe

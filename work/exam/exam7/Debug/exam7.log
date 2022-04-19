@@ -1,0 +1,3 @@
+﻿  exam7.cpp
+D:\vs2\work\exam\exam7\exam7.cpp(7,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  exam7.vcxproj -> D:\vs2\work\exam\Debug\exam7.exe

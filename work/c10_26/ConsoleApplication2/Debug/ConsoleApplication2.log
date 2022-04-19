@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+D:\vs2\work\c10_26\ConsoleApplication2\ConsoleApplication2.cpp(7,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\c10_26\ConsoleApplication2\ConsoleApplication2.cpp(12,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConsoleApplication2.vcxproj -> D:\vs2\work\c10_26\Debug\ConsoleApplication2.exe

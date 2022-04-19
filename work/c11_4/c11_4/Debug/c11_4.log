@@ -1,0 +1,4 @@
+﻿  c11_4.cpp
+D:\vs2\work\c11_4\c11_4\c11_4.cpp(8,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\vs2\work\c11_4\c11_4\c11_4.cpp(14,15): warning C4305: “-=”: 从“double”到“float”截断
+  c11_4.vcxproj -> D:\vs2\work\c11_4\Debug\c11_4.exe

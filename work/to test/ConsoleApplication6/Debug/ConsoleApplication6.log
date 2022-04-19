@@ -1,0 +1,3 @@
+﻿  ConsoleApplication6.cpp
+D:\vs2\work\to test\ConsoleApplication6\ConsoleApplication6.cpp(9,17): error C2660: “fgetpos”: 函数不接受 1 个参数
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(186,26): message : 参见“fgetpos”的声明

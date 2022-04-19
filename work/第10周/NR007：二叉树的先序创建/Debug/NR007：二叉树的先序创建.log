@@ -1,0 +1,3 @@
+﻿  NR007：二叉树的先序创建.cpp
+D:\vs2\work\第10周\NR007：二叉树的先序创建\NR007：二叉树的先序创建.cpp(56,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  NR007：二叉树的先序创建.vcxproj -> D:\vs2\work\第10周\Debug\NR007：二叉树的先序创建.exe

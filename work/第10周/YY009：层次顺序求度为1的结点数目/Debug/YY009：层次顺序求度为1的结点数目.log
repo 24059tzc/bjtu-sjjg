@@ -1,0 +1,5 @@
+﻿  YY009：层次顺序求度为1的结点数目.cpp
+D:\vs2\work\第10周\YY009：层次顺序求度为1的结点数目\YY009：层次顺序求度为1的结点数目.cpp(33,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\第10周\YY009：层次顺序求度为1的结点数目\YY009：层次顺序求度为1的结点数目.cpp(72,12): warning C4101: “e1”: 未引用的局部变量
+D:\vs2\work\第10周\YY009：层次顺序求度为1的结点数目\YY009：层次顺序求度为1的结点数目.cpp(70,6): warning C4101: “i”: 未引用的局部变量
+  YY009：层次顺序求度为1的结点数目.vcxproj -> D:\vs2\work\第10周\Debug\YY009：层次顺序求度为1的结点数目.exe

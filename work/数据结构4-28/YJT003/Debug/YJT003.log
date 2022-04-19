@@ -1,0 +1,5 @@
+﻿  YJT003.cpp
+D:\vs2\work\数据结构4-28\YJT003\YJT003.cpp(25,23): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+D:\vs2\work\数据结构4-28\YJT003\YJT003.cpp(175,6): warning C4101: “p”: 未引用的局部变量
+D:\vs2\work\数据结构4-28\YJT003\YJT003.cpp(175,9): warning C4101: “q”: 未引用的局部变量
+  YJT003.vcxproj -> D:\vs2\work\数据结构4-28\Debug\YJT003.exe

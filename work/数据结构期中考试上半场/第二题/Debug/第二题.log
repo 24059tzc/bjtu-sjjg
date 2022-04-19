@@ -1,0 +1,4 @@
+﻿  第二题.cpp
+D:\vs2\work\数据结构期中考试上半场\第二题\第二题.cpp(35,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构期中考试上半场\第二题\第二题.cpp(121,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  第二题.vcxproj -> D:\vs2\work\数据结构期中考试上半场\Debug\第二题.exe

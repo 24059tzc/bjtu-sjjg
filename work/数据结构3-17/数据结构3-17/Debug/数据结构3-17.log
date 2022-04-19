@@ -1,0 +1,7 @@
+﻿  数据结构3-17.cpp
+D:\vs2\work\数据结构3-17\数据结构3-17\数据结构3-17.cpp(145,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构3-17\数据结构3-17\数据结构3-17.cpp(149,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构3-17\数据结构3-17\数据结构3-17.cpp(154,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构3-17\数据结构3-17\数据结构3-17.cpp(158,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构3-17\数据结构3-17\数据结构3-17.cpp(162,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  数据结构3-17.vcxproj -> D:\vs2\work\数据结构3-17\Debug\数据结构3-17.exe

@@ -1,0 +1,4 @@
+﻿  c11_2_1.cpp
+D:\vs2\work\c11_2\c11_2_1\c11_2_1.cpp(5,25): warning C4042: “a”: 有坏的存储类
+D:\vs2\work\c11_2\c11_2_1\c11_2_1.cpp(14,25): warning C4042: “a”: 有坏的存储类
+  c11_2_1.vcxproj -> D:\vs2\work\c11_2\Debug\c11_2_1.exe

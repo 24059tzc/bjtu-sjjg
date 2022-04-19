@@ -1,0 +1,4 @@
+﻿  NR012：查找数组最小元素.cpp
+D:\vs2\work\第13周\NR012：查找数组最小元素\NR012：查找数组最小元素.cpp(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\第13周\NR012：查找数组最小元素\NR012：查找数组最小元素.cpp(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  NR012：查找数组最小元素.vcxproj -> D:\vs2\work\第13周\Debug\NR012：查找数组最小元素.exe

@@ -1,0 +1,4 @@
+﻿  exam3.cpp
+D:\vs2\work\exam2\exam3\exam3.cpp(9,40): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\vs2\work\exam2\exam3\exam3.cpp(32,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  exam3.vcxproj -> D:\vs2\work\exam2\Debug\exam3.exe

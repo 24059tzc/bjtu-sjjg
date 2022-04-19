@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\vs2\work\ConsoleApplication3\ConsoleApplication1\ConsoleApplication1.cpp(13,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\vs2\work\ConsoleApplication3\ConsoleApplication1\ConsoleApplication1.cpp(7,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\ConsoleApplication3\ConsoleApplication1\ConsoleApplication1.cpp(6,25): warning C4101: “c”: 未引用的局部变量
+  ConsoleApplication1.vcxproj -> D:\vs2\work\ConsoleApplication3\Debug\ConsoleApplication1.exe

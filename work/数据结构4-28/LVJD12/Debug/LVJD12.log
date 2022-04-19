@@ -1,0 +1,4 @@
+﻿  LVJD12.cpp
+D:\vs2\work\数据结构4-28\LVJD12\LVJD12.cpp(139,6): warning C4101: “p”: 未引用的局部变量
+D:\vs2\work\数据结构4-28\LVJD12\LVJD12.cpp(139,9): warning C4101: “q”: 未引用的局部变量
+  LVJD12.vcxproj -> D:\vs2\work\数据结构4-28\Debug\LVJD12.exe

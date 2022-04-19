@@ -1,0 +1,4 @@
+﻿  第九题.cpp
+D:\vs2\work\数据结构期中考试下半场\第九题\第九题.cpp(35,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs2\work\数据结构期中考试下半场\第九题\第九题.cpp(121,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  第九题.vcxproj -> D:\vs2\work\数据结构期中考试下半场\x64\Debug\第九题.exe

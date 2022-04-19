@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+D:\vs2\work\to test\ConsoleApplication5\ConsoleApplication5.cpp(9,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\vs2\work\to test\ConsoleApplication5\ConsoleApplication5.cpp(8,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConsoleApplication5.vcxproj -> D:\vs2\work\to test\Debug\ConsoleApplication5.exe

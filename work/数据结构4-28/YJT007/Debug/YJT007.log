@@ -1,0 +1,5 @@
+﻿  YJT007.cpp
+D:\vs2\work\数据结构4-28\YJT007\YJT007.cpp(162,6): warning C4101: “p”: 未引用的局部变量
+D:\vs2\work\数据结构4-28\YJT007\YJT007.cpp(162,9): warning C4101: “q”: 未引用的局部变量
+D:\vs2\work\数据结构4-28\YJT007\YJT007.cpp(117): warning C4715: “Delete”: 不是所有的控件路径都返回值
+  YJT007.vcxproj -> D:\vs2\work\数据结构4-28\Debug\YJT007.exe

@@ -1,0 +1,5 @@
+﻿  LVJD14.cpp
+D:\vs2\work\数据结构4-28\LVJD14\LVJD14.cpp(165,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs2\work\数据结构4-28\LVJD14\LVJD14.cpp(115,6): warning C4101: “p”: 未引用的局部变量
+D:\vs2\work\数据结构4-28\LVJD14\LVJD14.cpp(115,9): warning C4101: “q”: 未引用的局部变量
+  LVJD14.vcxproj -> D:\vs2\work\数据结构4-28\Debug\LVJD14.exe
